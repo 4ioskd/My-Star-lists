@@ -1,4 +1,4 @@
-# My Star list on Github
+# My Stars lists on Github
 <a href="https://github.com/stars/4ioskd/lists/accessibility" rel="noopener noreferrer">Accessbility</a><br>
 <a href="https://github.com/stars/4ioskd/lists/community" rel="noopener noreferrer">Community</a><br>
 <a href="https://github.com/stars/4ioskd/lists/design-art" rel="noopener noreferrer">Design & Art</a><br>
