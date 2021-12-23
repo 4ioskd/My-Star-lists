@@ -10,7 +10,7 @@ I would like to share my Stars list to boost the social diversity, eliminate the
 <a href="https://github.com/stars/4ioskd/lists/empowering-women" rel="noopener noreferrer">Empowering Women</a><br>
 <a href="https://github.com/stars/4ioskd/lists/funding-job" rel="noopener noreferrer">Funding & Job</a><br>
 <a href="https://github.com/stars/4ioskd/lists/learning-material" rel="noopener noreferrer">Learning Material</a><br>
-<a href="https://github.com/stars/4ioskd/lists/lgbtq" rel="noopener noreferrer">LGBTQ</a><br>
+<a href="https://github.com/stars/4ioskd/lists/lgbtqia" rel="noopener noreferrer">LGBTQIA</a><br>
 <a href="https://github.com/stars/4ioskd/lists/public-domain" rel="noopener noreferrer">Public Domain</a><br><br>
 ...new lists will be added soon?
 
