@@ -1,5 +1,5 @@
 # My Stars lists on Github
-I would like to share my Stars list to boost the social diversity, eliminate the opportunity differentials.<br><br>
+I would like to share my Stars list to boost the social diversity and eliminate the opportunity differentials.<br><br>
 <b>We are different, not divided.</b><br>
 
 # Stars lists
