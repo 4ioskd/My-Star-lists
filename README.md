@@ -1,3 +1,4 @@
+English / <a href="https://github.com/stars/4ioskd/my-Stars-lists/README-JA.md" rel="noopener noreferrer">日本語</a>
 # My Stars lists on Github
 I would like to share my Stars list to boost the social diversity, eliminate the opportunity differentials and reconfirm a importance of Digital commons.(By the way, what is "Digital commons"? See https://en.wikipedia.org/wiki/Digital_commons_(economics) )<br><br>
 <b>We are different, not divided.</b><br>
