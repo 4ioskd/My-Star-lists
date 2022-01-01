@@ -8,8 +8,8 @@ Github上で私がスターを送った、リポジトリのリスト（スタ�
 各トピックごとにスターリストはまとめられています。<br>
 - <a href="https://github.com/stars/4ioskd/lists/accessibility" rel="noopener noreferrer">アクセシビリティ</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/black-lives-matter" rel="noopener noreferrer">Black Lives Matter</a><br>
+- - <a href="https://github.com/stars/4ioskd/lists/social-network" rel="noopener noreferrer">ソーシャルネットワーク</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/community" rel="noopener noreferrer">コミュニティ</a><br>
-- <a href="https://github.com/stars/4ioskd/lists/decentralised-social-network" rel="noopener noreferrer">脱中央集権ネットワーク</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/design-art" rel="noopener noreferrer">デザインやアート</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/education" rel="noopener noreferrer">教育分野</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/empowering-women" rel="noopener noreferrer">女性の社会的地位の向上</a><br>
