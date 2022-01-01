@@ -8,7 +8,7 @@ I would like to share my Star lists to boost the social diversity, eliminate the
 - <a href="https://github.com/stars/4ioskd/lists/accessibility" rel="noopener noreferrer">Accessbility</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/black-lives-matter" rel="noopener noreferrer">Black Lives Matter</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/community" rel="noopener noreferrer">Community</a><br>
-- <a href="https://github.com/stars/4ioskd/lists/decentralised-social-network" rel="noopener noreferrer">Decentralised Social Network</a><br>
+- <a href="https://github.com/stars/4ioskd/lists/decentralised-social-network" rel="noopener noreferrer">Social Network</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/design-art" rel="noopener noreferrer">Design & Art</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/education" rel="noopener noreferrer">Education</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/empowering-women" rel="noopener noreferrer">Empowering Women</a><br>
