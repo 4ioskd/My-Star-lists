@@ -15,9 +15,9 @@ I would like to share my Star lists to boost the social diversity, eliminate the
 - <a href="https://github.com/stars/4ioskd/lists/funding-job" rel="noopener noreferrer">Funding & Job</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/learning-material" rel="noopener noreferrer">Learning Material</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/lgbtqia" rel="noopener noreferrer">LGBTQIA</a><br>
-- <a href="https://github.com/stars/4ioskd/lists/public-domain" rel="noopener noreferrer">Public Domain</a><br><br>
+- <a href="https://github.com/stars/4ioskd/lists/public-domain" rel="noopener noreferrer">Public Domain</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/translation" rel="noopener noreferrer">Translation</a><br><br>
-...new lists will be added soon?
+...new lists will be added?
 
 # License
 CC-BY-SA-4.0<br>
