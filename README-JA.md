@@ -8,7 +8,7 @@ Github上で私がスターを送った、リポジトリのリスト（スタ�
 各トピックごとにスターリストはまとめられています。<br>
 - <a href="https://github.com/stars/4ioskd/lists/accessibility" rel="noopener noreferrer">アクセシビリティ</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/black-lives-matter" rel="noopener noreferrer">Black Lives Matter</a><br>
-- - <a href="https://github.com/stars/4ioskd/lists/social-network" rel="noopener noreferrer">ソーシャルネットワーク</a><br>
+- <a href="https://github.com/stars/4ioskd/lists/social-network" rel="noopener noreferrer">ソーシャルネットワーク</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/community" rel="noopener noreferrer">コミュニティ</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/design-art" rel="noopener noreferrer">デザインやアート</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/education" rel="noopener noreferrer">教育分野</a><br>
@@ -16,7 +16,8 @@ Github上で私がスターを送った、リポジトリのリスト（スタ�
 - <a href="https://github.com/stars/4ioskd/lists/funding-job" rel="noopener noreferrer">プロジェクトの資金調達等</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/learning-material" rel="noopener noreferrer">学習教材</a><br>
 - <a href="https://github.com/stars/4ioskd/lists/lgbtqia" rel="noopener noreferrer">LGBTQIA</a><br>
-- <a href="https://github.com/stars/4ioskd/lists/public-domain" rel="noopener noreferrer">パブリックドメイン</a><br><br>
+- <a href="https://github.com/stars/4ioskd/lists/public-domain" rel="noopener noreferrer">パブリックドメイン</a><br>
+- <a href="https://github.com/stars/4ioskd/lists/trasnlation" rel="noopener noreferrer">翻訳</a><br><br>
 ...また新しいリストが追加されるかも?
 
 # License
