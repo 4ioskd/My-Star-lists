@@ -21,5 +21,5 @@ I would like to share my Star lists to boost the social diversity, eliminate the
 
 # License
 CC-BY-SA-4.0<br>
-<img src="CC-BY-SA_icon.svg.png" width="88" height="31" alt="CC-BY-SA-4.0"></a>
+<img src="CC-BY-SA_icon.svg.png" width="88" height="31" alt="CC-BY-SA-4.0"></a><br>
 ( The detailed discription of this license is... https://creativecommons.org/licenses/by-sa/4.0/)<br><br>
